@@ -36,12 +36,14 @@
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-	<img height="195px" src="https://github-readme-stats.vercel.app/api?username=codename-FlawZ&show_icons=true&theme=transparent" align="center"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-	<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codename-FlawZ&layout=compact&theme=transparent" align="center"/>
-</a>
+<div align="center">
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+		<img height="195px" src="https://github-readme-stats.vercel.app/api?username=codename-FlawZ&show_icons=true&theme=transparent"/>
+	</a>
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+		<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codename-FlawZ&layout=compact&theme=transparent"/>
+	</a>
+</div>
 
 ---
 

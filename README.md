@@ -1,6 +1,6 @@
-### 🌠 Pedro Alexandre
+# 🌠 Pedro Alexandre
 
-# **`Software Developer | Front-end Web Developer`**
+### **`Software Developer | Front-end Web Developer`**
 
 ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1260560444676288512/1730992838/1080x360)
 

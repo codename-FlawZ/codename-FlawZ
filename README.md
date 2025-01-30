@@ -2,8 +2,6 @@
 
 ### **`Software Developer | Front-end Web Developer`**
 
-![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1260560444676288512/1730992838/1080x360)
-
 🇺🇸 Hello There!! I am a Brazilian Front-end Web Developer wich loves technology since i was a litle kid. I have a filosofy of **If i'm not going to do with excelency, so it's better for me not raising a single finger for that** so, this filosofy means that whenever i get to build a project, i will give 200% of me to get the best results and also learn with every experience i get when i'm coding. also a passionate volleyball enthusiast and player (opposite striker) and a gamer on free time. in the past i used to be a eSports athlete by playing League of legends: Wild Rift as a baron laner. now sometimes i do some livestreams on twitch playing some games, reacting to some stuff and coding.
 
 🇧🇷 Olá!! Sou um Brasileiro Desenvolvedor Web Front-end que ama tecnologia desde criança. eu tenho a filosofia de **Se não for pra eu fazer com excelência, então é melhor eu nem levantar um dedo pra isso** e, essa filosofia significa que em qualquer projeto que eu me proponho a fazer, eu vou dar 200% de mim para conseguir os melhores resultados enquanto aprendo com cada expêriencia que eu ganho enquanto escrevo código. também um amante de vôlei e jogador (jogo como oposto) e um gamer nas horas vagas. no passado eu era um atleta de eSports jogando League of legends: Wild Rift como baron laner. agora eu faço lives de vez em quando na twitch jogando algumas coisas, reagindo a alguns videos e escrevendo código.

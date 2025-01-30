@@ -34,6 +34,8 @@
 	<img align="center" alt="phzz-css" width="60" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 	<img align="center" alt="phzz-js" width="60" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
 	<img align="center" alt="phzz-ts" width="60" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+	<img align="center" alt="phzz-rs" width="60" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+	<img align="center" alt="phzz-py" width="60" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div> 
 
 ---
